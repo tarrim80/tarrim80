@@ -19,19 +19,26 @@
 
 Поэтому я решился вернуться к мечте и всё изменить. Я поступил на курс "Python разрабтчик плюс" от Яндекс практикума. И вот спринт за спринтом я постигаю что такое бэкенд разработка и очень этому рад!
 
+<table>
+<tr>
+<th><h3 align=center >Мой стек технологий:</h3></th>
+<th><h3 align=center>Моя карта навыков:</h3></th>
+</tr>
+<tr>
+<td>
 <div align=center>
 
-## Моя карта навыков:
-
-<img src="assets/skill_map.png" style="height: 500px;"/>
+![](https://github.com/tarrim80/badges-and-icons/raw/main/technologies_badges/python.svg)&nbsp;![](https://github.com/tarrim80/badges-and-icons/raw/main/technologies_badges/git.svg)&nbsp;![](https://github.com/tarrim80/badges-and-icons/raw/main/technologies_badges/github.svg)&nbsp;![](https://github.com/tarrim80/badges-and-icons/raw/main/technologies_badges/django.svg)&nbsp;![](https://github.com/tarrim80/badges-and-icons/raw/main/technologies_badges/django_rest_framework.svg)&nbsp;![](https://github.com/tarrim80/badges-and-icons/raw/main/technologies_badges/postgresql.svg)&nbsp;![](https://github.com/tarrim80/badges-and-icons/raw/main/technologies_badges/sql_alchemy.svg)&nbsp;![](https://github.com/tarrim80/badges-and-icons/raw/main/technologies_badges/beautiful_soup.svg)&nbsp;![](https://github.com/tarrim80/badges-and-icons/raw/main/technologies_badges/scrapy.svg)&nbsp;![](https://github.com/tarrim80/badges-and-icons/raw/main/technologies_badges/selenium.svg)&nbsp;![](https://github.com/tarrim80/badges-and-icons/raw/main/technologies_badges/docker.svg)&nbsp;![](https://github.com/tarrim80/badges-and-icons/raw/main/technologies_badges/nginx.svg)&nbsp;![](https://github.com/tarrim80/badges-and-icons/raw/main/technologies_badges/gunicorn.svg)&nbsp;![](https://github.com/tarrim80/badges-and-icons/raw/main/technologies_badges/yandex_cloud.svg)&nbsp;![](https://github.com/tarrim80/badges-and-icons/raw/main/technologies_badges/html.svg)&nbsp;![](https://github.com/tarrim80/badges-and-icons/raw/main/technologies_badges/css.svg)
 
 </div>
+</td>
 
+<td>
 <div align=center>
 
-## Мой стек технологий:
-
-![](https://github.com/tarrim80/badges-and-icons/raw/main/technologies_badges/python.svg)&nbsp;![](https://github.com/tarrim80/badges-and-icons/raw/main/technologies_badges/git.svg)&nbsp;![](https://github.com/tarrim80/badges-and-icons/raw/main/technologies_badges/github.svg)&nbsp;![](https://github.com/tarrim80/badges-and-icons/raw/main/technologies_badges/django.svg)&nbsp;![](https://github.com/tarrim80/badges-and-icons/raw/main/technologies_badges/django_rest_framework.svg)&nbsp;![](https://github.com/tarrim80/badges-and-icons/raw/main/technologies_badges/postgresql.svg)&nbsp;![](https://github.com/tarrim80/badges-and-icons/raw/main/technologies_badges/sql_alchemy.svg)&nbsp;![](https://github.com/tarrim80/badges-and-icons/raw/main/technologies_badges/beautiful_soup.svg)&nbsp;![](https://github.com/tarrim80/badges-and-icons/raw/main/technologies_badges/scrapy.svg)&nbsp;![](https://github.com/tarrim80/badges-and-icons/raw/main/technologies_badges/selenium.svg)&nbsp;![](https://github.com/tarrim80/badges-and-icons/raw/main/technologies_badges/docker.svg)&nbsp;![](https://github.com/tarrim80/badges-and-icons/raw/main/technologies_badges/nginx.svg)&nbsp;![](https://github.com/tarrim80/badges-and-icons/raw/main/technologies_badges/gunicorn.svg)&nbsp;![](https://github.com/tarrim80/badges-and-icons/raw/main/technologies_badges/yandex_cloud.svg)&nbsp;
-![](https://github.com/tarrim80/badges-and-icons/raw/main/technologies_badges/html.svg)&nbsp;![](https://github.com/tarrim80/badges-and-icons/raw/main/technologies_badges/css.svg)
+<img src="assets/skill_map.png" style="height: auto; width: 50%;"/>
 
 </div>
+</td>
+</tr>
+</table>
